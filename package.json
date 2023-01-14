@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "sense-hat-led": "^0.2.0",
+    "socket.io": "^4.5.4"
+  },
+  "name": "projetwos",
+  "description": "Current Tasks :",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.insa-rouen.fr/hlakchili/wos-homecinema-diy"
+  },
+  "keywords": [
+    "iot",
+    "nodejs",
+    "socketio",
+    "mysql",
+    "php",
+    "css",
+    "html",
+    "rpi"
+  ],
+  "author": "Hatim Lakchili",
+  "license": "ISC"
+}
+
